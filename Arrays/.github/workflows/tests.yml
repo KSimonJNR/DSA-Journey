@@ -23,4 +23,4 @@ jobs:
         run: pip install pytest
 
       - name: Run tests
-        run: cd arrays && python -m pytest
+        run: cd Arrays && python -m pytest
